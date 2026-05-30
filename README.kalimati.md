@@ -1,7 +1,7 @@
 # 🥦 Kalimati Tarkari Bazaar — Vegetable Price Prediction
 
 A data analysis and machine learning project for forecasting daily vegetable prices at the **Kalimati Fruits and Vegetables Market**, Kathmandu, Nepal. Prices are recorded in **NPR/KG** and the model produces 7-day ahead forecasts for any commodity in the dataset.
-
+In case ,if the .ipynb file doesnot open i have uploaded the image of the code
 ---
 
 ## 📁 Project Structure
